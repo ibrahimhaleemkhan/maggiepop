@@ -27,3 +27,4 @@ six==1.10.0
 social-auth-app-django==0.1.0
 social-auth-core==0.2.1
 whitenoise==3.3.0
+psycopg2==2.5.2
